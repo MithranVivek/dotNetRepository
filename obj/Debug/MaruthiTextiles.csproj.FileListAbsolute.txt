@@ -1,0 +1,13 @@
+C:\Users\Windows\source\repos\MaruthiTextiles\bin\Debug\MaruthiTextiles.exe.config
+C:\Users\Windows\source\repos\MaruthiTextiles\bin\Debug\MaruthiTextiles.exe
+C:\Users\Windows\source\repos\MaruthiTextiles\bin\Debug\MaruthiTextiles.pdb
+C:\Users\Windows\source\repos\MaruthiTextiles\obj\Debug\MaruthiTextiles.Category.resources
+C:\Users\Windows\source\repos\MaruthiTextiles\obj\Debug\MaruthiTextiles.Catogory.resources
+C:\Users\Windows\source\repos\MaruthiTextiles\obj\Debug\MaruthiTextiles.Home.resources
+C:\Users\Windows\source\repos\MaruthiTextiles\obj\Debug\MaruthiTextiles.Stock.resources
+C:\Users\Windows\source\repos\MaruthiTextiles\obj\Debug\MaruthiTextiles.Login.resources
+C:\Users\Windows\source\repos\MaruthiTextiles\obj\Debug\MaruthiTextiles.Properties.Resources.resources
+C:\Users\Windows\source\repos\MaruthiTextiles\obj\Debug\MaruthiTextiles.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\MaruthiTextiles\obj\Debug\MaruthiTextiles.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\MaruthiTextiles\obj\Debug\MaruthiTextiles.exe
+C:\Users\Windows\source\repos\MaruthiTextiles\obj\Debug\MaruthiTextiles.pdb
